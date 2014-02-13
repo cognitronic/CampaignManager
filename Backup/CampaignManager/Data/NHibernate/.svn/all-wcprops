@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate
+END
+CampaignTag.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignTag.hbm.xml
+END
+CampaignTemplate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignTemplate.hbm.xml
+END
+CampaignSubscriberRequest.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignSubscriberRequest.hbm.xml
+END
+CampaignLink.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignLink.hbm.xml
+END
+Campaign.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/Campaign.hbm.xml
+END
+SubscriberCampaignTag.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/SubscriberCampaignTag.hbm.xml
+END
+CampaignOptedOut.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignOptedOut.hbm.xml
+END
+CampaignSubscriber.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignSubscriber.hbm.xml
+END
+Subscriber.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/Subscriber.hbm.xml
+END
+CampaignSubscriberLinkRequest.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/CampaignSubscriberLinkRequest.hbm.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/NHibernate/hibernate.cfg.xml
+END

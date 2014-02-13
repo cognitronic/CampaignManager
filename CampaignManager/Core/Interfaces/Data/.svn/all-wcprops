@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data
+END
+ICampaignSubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberRepository.cs
+END
+ISubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ISubscriberRepository.cs
+END
+ICampaignOptedOutRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/315/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignOptedOutRepository.cs
+END
+ICouponRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/478/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICouponRepository.cs
+END
+ICampaignTotalsRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignTotalsRepository.cs
+END
+ICampaignSubscriberLinkRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberLinkRequestRepository.cs
+END
+ICampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignTagRepository.cs
+END
+ICampaignTemplateRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignTemplateRepository.cs
+END
+ICampaignSubscriberRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberRequestRepository.cs
+END
+ICampaignLinkRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignLinkRepository.cs
+END
+ICouponCodeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/478/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICouponCodeRepository.cs
+END
+ICampaignRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ICampaignRepository.cs
+END
+ISubscriberCampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/Data/ISubscriberCampaignTagRepository.cs
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories
+END
+CampaignTemplateRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignTemplateRepository.cs
+END
+CampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignTagRepository.cs
+END
+CampaignSubscriberRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignSubscriberRequestRepository.cs
+END
+CampaignRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignRepository.cs
+END
+CampaignSubscriberLinkRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignSubscriberLinkRequestRepository.cs
+END
+CampaignLinkRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignLinkRepository.cs
+END
+CouponCodeRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/479/trunk/CampaignManager/CampaignManager/Data/Repositories/CouponCodeRepository.cs
+END
+SubscriberCampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/SubscriberCampaignTagRepository.cs
+END
+CampaignForwardToAFriendRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignForwardToAFriendRepository.cs
+END
+CampaignEmailErrorRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignEmailErrorRepository.cs
+END
+CouponRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/DPProjects/!svn/ver/478/trunk/CampaignManager/CampaignManager/Data/Repositories/CouponRepository.cs
+END
+CampaignOptedOutRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/315/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignOptedOutRepository.cs
+END
+SubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/516/trunk/CampaignManager/CampaignManager/Data/Repositories/SubscriberRepository.cs
+END
+CampaignSubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignSubscriberRepository.cs
+END
+CampaignTotalsRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignTotalsRepository.cs
+END
+CampaignManagerSettingRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/Repositories/CampaignManagerSettingRepository.cs
+END

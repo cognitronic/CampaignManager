@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces
+END
+ICoupon.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/DPProjects/!svn/ver/478/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICoupon.cs
+END
+ICampaignOptedOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/272/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignOptedOut.cs
+END
+ISubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Core/Interfaces/ISubscriber.cs
+END
+ICampaignSubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignSubscriber.cs
+END
+ICampaignManagerSetting.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignManagerSetting.cs
+END
+ICampaignLinkTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignLinkTracker.cs
+END
+ICampaignTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignTemplate.cs
+END
+ICampaignTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignTag.cs
+END
+ICampaignSubscriberRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignSubscriberRequest.cs
+END
+ICampaignLinksReportHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignLinksReportHelper.cs
+END
+ICampaign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaign.cs
+END
+ICampaignTemplateLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignTemplateLink.cs
+END
+ICampaignOptOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DPProjects/!svn/ver/315/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignOptOut.cs
+END
+ICampaignSubscriberLinkRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignSubscriberLinkRequest.cs
+END
+ICampaignClientTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignClientTracker.cs
+END
+ICampaignLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignLink.cs
+END
+ICouponCode.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/479/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICouponCode.cs
+END
+ISubscriberCampaignTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Core/Interfaces/ISubscriberCampaignTag.cs
+END
+ICampaignForwardToAFriend.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignForwardToAFriend.cs
+END
+ICampaignEmailError.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Core/Interfaces/ICampaignEmailError.cs
+END

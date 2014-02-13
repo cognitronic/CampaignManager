@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignTag">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Tag" />
+        <bag name="Subscribers" table="SubscriberCampaignTag" >
+            <key column="CampaignTagID" />
+            <many-to-many class="CampaignManager.Core.Domain.Subscriber, CampaignManager.Core.Domain" column="ID" />
+        </bag>
+    </class>
+</hibernate-mapping>

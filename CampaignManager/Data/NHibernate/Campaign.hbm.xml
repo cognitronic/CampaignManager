@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="Campaign">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="CampaignTemplateID" />
+        <property name="SentBy" />
+        <property name="CampaignName" />
+        <property name="Description"/>
+        <property name="EmailBody" length="2147483647" />
+        <property name="EmailSubject" />
+        <property name="EmailFrom" />
+        <property name="DateTimeSent" />
+        <property name="TotalRecipients" />
+    </class>
+</hibernate-mapping>

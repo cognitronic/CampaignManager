@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data
+END
+ICampaignOptedOutRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignOptedOutRepository.cs
+END
+ICampaignSubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberRepository.cs
+END
+ISubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ISubscriberRepository.cs
+END
+ICampaignSubscriberLinkRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberLinkRequestRepository.cs
+END
+ICampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignTagRepository.cs
+END
+ICampaignTemplateRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignTemplateRepository.cs
+END
+ICampaignSubscriberRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignSubscriberRequestRepository.cs
+END
+ICampaignLinkRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignLinkRepository.cs
+END
+ICampaignRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ICampaignRepository.cs
+END
+ISubscriberCampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Interfaces/Data/ISubscriberCampaignTagRepository.cs
+END

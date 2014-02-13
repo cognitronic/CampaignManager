@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/NHibernate
+END
+CampaignTag.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignTag.hbm.xml
+END
+CampaignTemplate.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignTemplate.hbm.xml
+END
+CampaignSubscriberRequest.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignSubscriberRequest.hbm.xml
+END
+Campaign.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/Campaign.hbm.xml
+END
+CampaignSubscriberLinkRequest.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignSubscriberLinkRequest.hbm.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/hibernate.cfg.xml
+END
+CampaignLink.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignLink.hbm.xml
+END
+CouponCode.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DPProjects/!svn/ver/479/trunk/CampaignManager/CampaignManager/Data/NHibernate/CouponCode.hbm.xml
+END
+SubscriberCampaignTag.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/NHibernate/SubscriberCampaignTag.hbm.xml
+END
+CampaignForwardToAFriend.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignForwardToAFriend.hbm.xml
+END
+CampaignEmailError.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignEmailError.hbm.xml
+END
+CampaignSubscriber.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignSubscriber.hbm.xml
+END
+Subscriber.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/NHibernate/Subscriber.hbm.xml
+END
+CampaignOptedOut.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/315/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignOptedOut.hbm.xml
+END
+Coupon.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/478/trunk/CampaignManager/CampaignManager/Data/NHibernate/Coupon.hbm.xml
+END
+CampaignTotals.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignTotals.hbm.xml
+END
+CampaignManagerSetting.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/481/trunk/CampaignManager/CampaignManager/Data/NHibernate/CampaignManagerSetting.hbm.xml
+END

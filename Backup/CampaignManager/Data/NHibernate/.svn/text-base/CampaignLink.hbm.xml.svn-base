@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignLink">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Text" />
+        <property name="NavigateURL" />
+        <property name="CampaignID" />
+        <property name="IsImage"/>
+        <property name="ImageURL" />
+    </class>
+</hibernate-mapping>

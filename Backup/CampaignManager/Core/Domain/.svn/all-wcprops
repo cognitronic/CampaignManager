@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain
+END
+CampaignTemplate.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignTemplate.cs
+END
+CampaignTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignTag.cs
+END
+CampaignSubscriberRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignSubscriberRequest.cs
+END
+CampaignLinksReportHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignLinksReportHelper.cs
+END
+CampaignSubscriberTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignSubscriberTracker.cs
+END
+Campaign.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/Campaign.cs
+END
+CampaignTemplateLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignTemplateLink.cs
+END
+CampaignSubscriberLinkRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignSubscriberLinkRequest.cs
+END
+CampaignOptOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignOptOut.cs
+END
+CampaignLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignLink.cs
+END
+SubscriberCampaignTag.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/SubscriberCampaignTag.cs
+END
+Subscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/Subscriber.cs
+END
+CampaignSubscriber.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignSubscriber.cs
+END
+CampaignOptedOut.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignOptedOut.cs
+END
+CampaignLinkTracker.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Core/Domain/CampaignLinkTracker.cs
+END

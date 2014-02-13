@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CouponCode" table="CouponCode">
+        <id name="ID" column="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="Code" />
+        <property name="CodeText" />
+        <property name="CouponID" />
+        <property name="IsRedeemed" />
+        <property name="IsAssigned" />
+        <property name="RedeemedDate" />
+        <property name="AssignedDate" />
+        <many-to-one name="Coupon" class="CampaignManager.Core.Domain.Coupon, CampaignManager" column="CouponID" insert="false" update="false" cascade="none" />
+    </class>
+</hibernate-mapping>

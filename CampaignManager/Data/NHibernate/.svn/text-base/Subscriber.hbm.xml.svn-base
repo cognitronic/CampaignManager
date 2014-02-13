@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="Subscriber">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="FirstName" />
+        <property name="LastName" />
+        <property name="Email" />
+        <property name="IsActive" />
+        <property name="DateCreated" />
+        <bag name="CampaignTags" table="SubscriberCampaignTag" generic="true" inverse="true">
+            <key column="SubscriberID" />
+            <many-to-many class="CampaignManager.Core.Domain.CampaignTag, CampaignManager.Core.Domain" column="ID" />
+        </bag>
+    </class>
+</hibernate-mapping>

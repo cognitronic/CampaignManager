@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6954EC53-ADAB-4B4F-A491-F01EA71DB3D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CampaignManager</RootNamespace>
+    <AssemblyName>CampaignManager</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IdeaSeed.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\IdeaSeed.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IdeaSeed.Web, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\IdeaSeed.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=1.0.1.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="LinFu.DynamicProxy, Version=1.0.3.14911, Culture=neutral, PublicKeyToken=62a6874124340d6e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\LinFu.DynamicProxy.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.Castle, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\NHibernate.ByteCode.Castle.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.ByteCode.LinFu, Version=2.1.2.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\NHibernate.ByteCode.LinFu.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Routing">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Web.UI, Version=2010.1.309.35, Culture=neutral, PublicKeyToken=121fae78165ba3d4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\References\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Core\Domain\CampaignOptedOut.cs" />
+    <Compile Include="Core\Domain\CampaignOptOut.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignOptedOutRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignTagRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ISubscriberCampaignTagRepository.cs" />
+    <Compile Include="Core\Interfaces\ICampaignOptedOut.cs" />
+    <Compile Include="Core\Interfaces\ICampaignOptOut.cs" />
+    <Compile Include="Data\Repositories\CampaignOptedOutRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignTagRepository.cs" />
+    <Compile Include="Data\Repositories\SubscriberCampaignTagRepository.cs" />
+    <Compile Include="Presentation\CampaignHelper.cs" />
+    <Compile Include="Presentation\CampaignLinksReportHelper.cs" />
+    <Compile Include="Presentation\CampaignManager.cs" />
+    <Compile Include="Presentation\CampaignManagerURLs.cs" />
+    <Compile Include="Presentation\CampaignManagerUtils.cs" />
+    <Compile Include="Presentation\OverViewReport.cs" />
+    <Compile Include="Core\Domain\Campaign.cs" />
+    <Compile Include="Core\Domain\CampaignSubscriber.cs" />
+    <Compile Include="Core\Domain\CampaignSubscriberLinkRequest.cs" />
+    <Compile Include="Core\Domain\CampaignSubscriberRequest.cs" />
+    <Compile Include="Core\Domain\CampaignSubscriberTracker.cs" />
+    <Compile Include="Core\Domain\CampaignLink.cs" />
+    <Compile Include="Core\Domain\CampaignLinksReportHelper.cs" />
+    <Compile Include="Core\Domain\CampaignLinkTracker.cs" />
+    <Compile Include="Core\Domain\CampaignTag.cs" />
+    <Compile Include="Core\Domain\CampaignTemplate.cs" />
+    <Compile Include="Core\Domain\CampaignTemplateLink.cs" />
+    <Compile Include="Core\Domain\Subscriber.cs" />
+    <Compile Include="Core\Domain\SubscriberCampaignTag.cs" />
+    <Compile Include="Core\Interfaces\Business\ICampaignLinksReportHelper.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignSubscriberLinkRequestRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignLinkRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignSubscriberRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignSubscriberRequestRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ICampaignTemplateRepository.cs" />
+    <Compile Include="Core\Interfaces\Data\ISubscriberRepository.cs" />
+    <Compile Include="Core\Interfaces\ICampaign.cs" />
+    <Compile Include="Core\Interfaces\ICampaignSubscriber.cs" />
+    <Compile Include="Core\Interfaces\ICampaignClientTracker.cs" />
+    <Compile Include="Core\Interfaces\ICampaignLink.cs" />
+    <Compile Include="Core\Interfaces\ICampaignLinksReportHelper.cs" />
+    <Compile Include="Core\Interfaces\ICampaignLinkTracker.cs" />
+    <Compile Include="Core\Interfaces\ICampaignSubscriberLinkRequest.cs" />
+    <Compile Include="Core\Interfaces\ICampaignSubscriberRequest.cs" />
+    <Compile Include="Core\Interfaces\ICampaignTag.cs" />
+    <Compile Include="Core\Interfaces\ICampaignTemplate.cs" />
+    <Compile Include="Core\Interfaces\ICampaignTemplateLink.cs" />
+    <Compile Include="Core\Interfaces\ISubscriber.cs" />
+    <Compile Include="Core\Interfaces\ISubscriberCampaignTag.cs" />
+    <Compile Include="Data\Repositories\CampaignLinkRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignSubscriberLinkRequestRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignSubscriberRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignSubscriberRequestRepository.cs" />
+    <Compile Include="Data\Repositories\CampaignTemplateRepository.cs" />
+    <Compile Include="Data\Repositories\SubscriberRepository.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Web\CampaignTrackerURLRoutes.cs" />
+    <Compile Include="Web\EmailTrackerHandler.cs" />
+    <Compile Include="Web\EmailTrackerPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Web\LinkTrackerHandler.cs" />
+    <Compile Include="Web\LinkTrackerPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\NHibernate\Campaign.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Data\NHibernate\CampaignTemplate.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignSubscriber.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignLink.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignSubscriberRequest.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignSubscriberLinkRequest.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignTag.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\CampaignOptedOut.hbm.xml" />
+    <Content Include="Data\NHibernate\hibernate.cfg.xml" />
+    <EmbeddedResource Include="Data\NHibernate\SubscriberCampaignTag.hbm.xml" />
+    <EmbeddedResource Include="Data\NHibernate\Subscriber.hbm.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reporting\" />
+    <Folder Include="Web\Images\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

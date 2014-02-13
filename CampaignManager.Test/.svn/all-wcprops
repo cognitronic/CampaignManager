@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager.Test
+END
+CampaignTemplateTest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager.Test/CampaignTemplateTest.cs
+END
+CampaignManager.Test.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/CampaignManager.Test/CampaignManager.Test.csproj
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager.Test/hibernate.cfg.xml
+END

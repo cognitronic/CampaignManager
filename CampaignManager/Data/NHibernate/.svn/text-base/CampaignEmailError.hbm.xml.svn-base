@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignEmailError">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="CampaignID" />
+        <property name="Email" />
+        <property name="Message" />
+        <property name="Removed" />
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignForwardToAFriend" table="CampaignForwardToAFriend">
+        <id name="ID" column="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="SubscriberID" />
+        <property name="CampaignID" />
+        <property name="DateForwarded" />
+        <property name="Emails" />
+        <many-to-one name="SubscriberRef" class="CampaignManager.Core.Domain.Subscriber, CampaignManager.Core" column="SubscriberID" insert="false" update="false" cascade="none" />
+    </class>
+</hibernate-mapping>

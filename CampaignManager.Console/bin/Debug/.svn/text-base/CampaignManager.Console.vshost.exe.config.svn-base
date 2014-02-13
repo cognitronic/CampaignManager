@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<configuration>
+    <appSettings>
+        <!-- Begin Network And Server Settings -->
+        <add key="SMTPHOST" value="10.10.17.16"/>
+        <!--<add key="SMTPHOST" value="localhost"/>-->
+        <!--<add key="SMTPUSERNAME" value="Relay@getdatapath.com"/>
+        <add key="SMTPPWD" value="blu3m00n$"/>-->
+        <add key="SMTPUSERNAME" value="support@mydatapath.com"/>
+        <add key="SMTPPWD" value="r3dm00n$"/>
+        <add key="BASEURL" value="dpsite.localhost"/>
+        <add key="HIDDENCAMPAIGNIMAGE" value="http://dpsite.localhost/images/TImage.gif"/>
+    </appSettings>
+<startup><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup></configuration>

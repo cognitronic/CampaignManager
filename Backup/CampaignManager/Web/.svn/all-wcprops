@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web
+END
+CampaignTrackerURLRoutes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web/CampaignTrackerURLRoutes.cs
+END
+EmailTrackerPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web/EmailTrackerPage.cs
+END
+EmailTrackerHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web/EmailTrackerHandler.cs
+END
+LinkTrackerPage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web/LinkTrackerPage.cs
+END
+LinkTrackerHandler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Web/LinkTrackerHandler.cs
+END

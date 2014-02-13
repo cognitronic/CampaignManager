@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Presentation
+END
+CampaignManagerUtils.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Presentation/CampaignManagerUtils.cs
+END
+CampaignLinksReportHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Presentation/CampaignLinksReportHelper.cs
+END
+CampaignHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/516/trunk/CampaignManager/CampaignManager/Presentation/CampaignHelper.cs
+END
+CampaignManagerURLs.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/DPProjects/!svn/ver/271/trunk/CampaignManager/CampaignManager/Presentation/CampaignManagerURLs.cs
+END
+OverViewReport.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Presentation/OverViewReport.cs
+END
+CampaignManager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/DPProjects/!svn/ver/545/trunk/CampaignManager/CampaignManager/Presentation/CampaignManager.cs
+END

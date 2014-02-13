@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignSubscriberRequest">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="CampaignSubscriberID" />
+        <property name="IP" />
+        <property name="Browser" />
+        <property name="UserAgent" />
+        <property name="DateRequested" />
+        <property name="OperatingSystem" />
+        <property name="HostName" />
+    </class>
+</hibernate-mapping>

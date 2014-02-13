@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+assembly="CampaignManager"
+namespace="CampaignManager.Core.Domain">
+    <class name="CampaignOptOut" table="CampaignOptOut">
+        <id name="ID">
+            <generator class="identity"></generator>
+        </id>
+        <property name="CampaignID" />
+        <property name="SubscriberID" />
+        <property name="DateUnsubscribed" />
+        <many-to-one name="Subscriber" class="CampaignManager.Core.Domain.Subscriber, CampaignManager.Core" column="SubscriberID" insert="false" update="false" cascade="none" />
+        <many-to-one name="Campaign" class="CampaignManager.Core.Domain.Campaign, CampaignManager.Core" column="SubscriberID" insert="false" update="false" cascade="none" />
+    </class>
+</hibernate-mapping>

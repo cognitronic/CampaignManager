@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories
+END
+CampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignTagRepository.cs
+END
+CampaignTemplateRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignTemplateRepository.cs
+END
+CampaignSubscriberRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignSubscriberRequestRepository.cs
+END
+CampaignLinkRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignLinkRepository.cs
+END
+CampaignRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignRepository.cs
+END
+SubscriberCampaignTagRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/SubscriberCampaignTagRepository.cs
+END
+CampaignOptedOutRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignOptedOutRepository.cs
+END
+CampaignSubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignSubscriberRepository.cs
+END
+SubscriberRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/SubscriberRepository.cs
+END
+CampaignSubscriberLinkRequestRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/DPProjects/!svn/ver/443/trunk/CampaignManager/Backup/CampaignManager/Data/Repositories/CampaignSubscriberLinkRequestRepository.cs
+END
